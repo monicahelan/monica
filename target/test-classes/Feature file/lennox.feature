@@ -8,6 +8,6 @@ Feature: User is going to automate the lennox website
 
     Examples: 
       | sheet |
-      |     7 |
-      |    8 |
-      |    9 |
+      |     9 |
+      |    10 |
+      |    11 |
